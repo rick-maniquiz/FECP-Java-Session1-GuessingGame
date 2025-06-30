@@ -1,4 +1,4 @@
-# LAB 3: Celcius to Farenheit Converter
+# LAB 3: Guessing Game
 
 ### Cadet Name: Rafael Nico T. Maniquiz
 ### Project Name: FECP-Java-Session1-GuessingGame
